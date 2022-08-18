@@ -22,7 +22,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Juhoon's%20Github%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juhoon's%20Github%20render&fontSize=30)
 
 <!-- 깃허브 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhoon-lee&show_icons=true&theme=tokyonight)
