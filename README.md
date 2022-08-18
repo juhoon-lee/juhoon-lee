@@ -32,7 +32,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhoon-lee&layout=compact)](https://github.com/juhoon-lee/github-readme-stats)
 
 <!-- 아이콘 뱃지 -->
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=FFFFFF"/>
 
 
 <!-- </div> -->
