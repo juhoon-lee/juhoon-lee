@@ -33,6 +33,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 <!-- 아이콘 뱃지 -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/badge/Xcode-3671DD?style=for-the-badge&logo=Xcode&logoColor=white"/> 
 
 <!-- </div> -->
