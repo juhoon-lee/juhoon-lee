@@ -15,7 +15,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhoon-lee&langs_count=8)](https://github.com/juhoon-lee/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhoon-lee&layout=compact)](https://github.com/juhoon-lee/github-readme-stats)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=juhoon-lee)](https://solved.ac/juhoon-lee)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=juhoon-lee)](https://solved.ac/juhoon-lee)<br/>
 
 <!-- 아이콘 뱃지 -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Xcode-3671DD?style=for-the-badge&logo=Xcode&logoColor=white"/> 
