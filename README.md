@@ -4,15 +4,11 @@
 스탯
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
-
-<!-- 헤더 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2E64FE,100:A9BCF5&height=150&section=header&text=Github&fontSize=45&fontAlignY=30) -->
   
 <!-- 깃허브 스탯 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhoon-lee&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juhoon-lee&show_icons=true&theme=tokyonight)
 
 <!-- 사용 언어 -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhoon-lee&langs_count=8)](https://github.com/juhoon-lee/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhoon-lee&layout=compact)](https://github.com/juhoon-lee/github-readme-stats)
 
 <!-- 아이콘 뱃지 -->
