@@ -2,7 +2,7 @@
 <!-- 
 테마 모음 주소
 스탯
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 -->
   
 <!-- 깃허브 스탯 -->
